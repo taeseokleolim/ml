@@ -1,4 +1,3 @@
-# ml
 # ML cheat sheet style codes in notebook
 
 # List of Codes 
@@ -7,15 +6,13 @@
     - kmeans (sklearn)
     - hierarchical (sklearn, scipy)
 
-## Dimension Reduction / Encoding:
-    - PCA (sklearn) - not yet
-    - OnehotEncoding - not yet
-    - BinaryEncoding - not yet
-
-## Embedding - not yet
-    - node2vec
-    - word2vec
-    - glove
+## Dimension Reduction / Encoding / Embedding:
+    - PCA (sklearn)
+    - OnehotEncoding (numpy, torch)
+    - BinaryEncoding (numpy, torch)
+    - node2vec (gensim)
+    - word2vec (gensim)
+    - glove (torchtext)
 
 ## Linear Regression:
     - Lasso (sklearn)
@@ -71,3 +68,6 @@
     - MSE, RMSE, MAE
     - MAP, NDCG
     - Hit Rate
+
+
+* Note that purpose of this repo is to remind myself with topics that I have been worked. 

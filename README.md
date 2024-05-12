@@ -27,6 +27,12 @@
     - XGboost (xgboost)
     - NGboost (ngboost)
 
+## MCMC from Scratch:
+    - Metropolis-Hastings with Logit (numpy)
+    - Gibbs Sampler with Logit (numpy)
+    - Hamiltonian MC with Logit (numpy) - not yet
+    - NUTS with Logit (numpy) - not yet
+
 ## Image Classification:
     - ResNet (torchvision)
     - EfficientNet (torchvision)
@@ -43,6 +49,22 @@
     - SVD
     - Bayesian SVD
     - GraphSAGE
+
+## Optimizations: - not yet
+    - Nelder-Mead
+    - Particle-Swarm
+    - GeneticAlgorithm
+
+## Bayesian Models: - not yet
+    - Bayesian Regression
+    - HMM
+    - LDA
+    - Stochastic Volatility
+
+## Econometrics: - not yet
+    - ARIMA
+    - ARCH / GARCH
+    - Multivariate GARCH
 
 ## Metrics / Performance Check - not yet
     - Accuaracy, Recall, Precision, Confusion Matrix

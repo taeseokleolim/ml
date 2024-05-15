@@ -6,7 +6,7 @@
     - kmeans (sklearn)
     - hierarchical (sklearn, scipy)
 
-## Dimension Reduction / Encoding / Embedding:
+## Embedding (/ Dimension Reduction / Encoding):
     - PCA (sklearn)
     - OnehotEncoding (numpy, torch)
     - BinaryEncoding (numpy, torch)
@@ -27,8 +27,8 @@
 ## MCMC from Scratch:
     - Metropolis-Hastings with Logit (numpy)
     - Gibbs Sampler with Logit (numpy)
-    - Hamiltonian MC with Logit (numpy) - not yet
-    - NUTS with Logit (numpy) - not yet
+    - Hamiltonian MC with Logit (numpy)
+    - NUTS with Logit (numpy)
 
 ## Image Classification:
     - ResNet (torchvision)

@@ -39,14 +39,6 @@
     - Prototypical Loss (torch)
     - MAML (torch)
 
-## Recommendation: - not yet
-    - Collaborative Filtering
-    - MF
-    - FM
-    - SVD
-    - Bayesian SVD
-    - GraphSAGE
-
 ## Optimizations: - not yet
     - Nelder-Mead
     - Particle-Swarm

@@ -1,5 +1,9 @@
 # ML cheat sheet style codes in notebook
 
+- Most of the codes are in jupyter notebook, and having main ideas within the page.
+- A number of basic ML are in. And some of my personal experiments on JAX and MCMC.
+
+
 # List of Codes 
 
 ## Clustering:
